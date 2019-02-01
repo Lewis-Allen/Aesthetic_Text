@@ -1,0 +1,11 @@
+apply plugin: 'application'
+
+mainClassName = "convert.MainApp"
+
+group = 'com.lewisallen.aesthetic'
+version = '1.0-SNAPSHOT'
+
+description = "Aesthetic Text"
+
+sourceCompatibility = 8
+targetCompatibility = 8
