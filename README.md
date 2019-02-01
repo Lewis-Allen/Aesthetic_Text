@@ -8,8 +8,7 @@ Add spacing in between letters and words and copy the result to your clipboard.
 Hello World -> H e l l o   W o r l d
 
 ## How to Run
-
-- `gradle wrapper`
+Navigate into the project root directory. Use `./gradlew` for Unix based systems or `./gradlew.bat` for Windows.
 - `./gradlew build`
 - `./gradlew run`
 
